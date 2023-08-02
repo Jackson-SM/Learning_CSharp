@@ -9,3 +9,11 @@
 - **Compartilhar Conhecimento**: Acredito que a aprendizagem é ainda mais significativa quando compartilhamos o conhecimento adquirido. Compartilharei exemplos de código, explicações claras e dicas úteis sobre como usar classes de forma eficiente em C#. Isso não apenas me ajudará a reforçar o que aprendi, mas também beneficiará outros que desejam aprender ou aprimorar suas habilidades em C#.
 
 - **Incentivar a Colaboração**: Encorajo outros desenvolvedores a contribuírem com este repositório. Sinta-se à vontade para enviar sugestões, correções de erros, e novos exemplos de código. Juntos, podemos criar um recurso valioso para a comunidade, permitindo que todos aprimorem suas habilidades em C#.
+
+### Conteúdos estudados até o momento:
+
+- **Comportamento de memória**;
+- **Orientação a Objetos**;
+- **Classes**, **Atributos** e **Membros estáticos**;
+- **Herança**;
+- **Polimorfismo**;
