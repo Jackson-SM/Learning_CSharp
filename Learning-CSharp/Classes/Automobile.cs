@@ -12,11 +12,11 @@ namespace Learning_CSharp
         public string Model { get; set; }
         public int ManufacturingDate {get; set;}
 
-        public void Acelerar()
+        public void SpeedUp()
         {
             Console.WriteLine("O Automóvel está acelerando!");
         }
-        public void Frear()
+        public void SlowDown()
         {
             Console.WriteLine("O Automóvel está freando!");
         }

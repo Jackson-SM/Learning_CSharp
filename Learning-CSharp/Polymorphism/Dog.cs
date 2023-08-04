@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Learning_CSharp.Classes;
 
-namespace Learning_CSharp
+namespace Learning_CSharp.Inheritance
 {
     internal class Dog : Animal
     {

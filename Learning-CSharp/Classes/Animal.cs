@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Learning_CSharp
+namespace Learning_CSharp.Classes
 {
     internal abstract class Animal
     {
