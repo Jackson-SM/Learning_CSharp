@@ -14,6 +14,6 @@
 
 - **Comportamento de memória**;
 - **Orientação a Objetos**;
-- **Classes**, **Atributos** e **Membros estáticos**;
-- **Herança**;
-- **Polimorfismo**;
+- **[Classes, Atributos e Membros estáticos](https://github.com/Jackson-SM/Learning-CSharp/blob/main/Learning-CSharp/Classes/Classes.md)**;
+- **[Herança](https://github.com/Jackson-SM/Learning-CSharp/blob/main/Learning-CSharp/Inheritance/Inheritance.md)**;
+- **[Polimorfismo](https://github.com/Jackson-SM/Learning-CSharp/blob/main/Learning-CSharp/Polymorphism/Polymorphism.md)**;
