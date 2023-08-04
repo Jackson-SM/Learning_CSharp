@@ -9,8 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Methods\" />
-    <Folder Include="Polymorphism\" />
+    <Compile Remove="Methods\**" />
+    <EmbeddedResource Remove="Methods\**" />
+    <None Remove="Methods\**" />
   </ItemGroup>
 
 </Project>
